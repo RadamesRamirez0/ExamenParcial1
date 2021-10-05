@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name" translatable="false">Parcial1</string>
+    <string name="splashWelcome">Welcome to Program Exam App.</string>
+    <string name="splashCreator">Created by: Radames Ramirez Diaz</string>
+    <string name="txvLoginInstruction">Let\'s play, give me your name:</string>
+    <string name="edtUserName">Please, enter your name here</string>
+    <string name="btnLoginStart">Start the game</string>
+    <string name="txvError">Please, enter a valid name</string>
+    <string name="txvData" translatable="false">Radames Osvaldo Ramirez Diaz.  20166932</string>
+    <string-array name="Questions">
+        <item>What is the official store of Android OS called?</item>
+        <item>They are applications that are builded to run directly on an Operative System?</item>
+        <item>What is the IDE for develop native Android apps called?</item>
+    </string-array>
+
+    <string-array name="Ans1">
+        <item>Play Store</item>
+        <item>App Store</item>
+        <item>Aptoide</item>
+    </string-array>
+    <string-array name="Ans2">
+
+        <item>Web Apps</item>
+        <item>Hybrid Apps</item>
+        <item>Native Apps</item>
+    </string-array>
+    <string-array name="Ans3">
+        <item>Visual Studio</item>
+        <item>Android Studio</item>
+        <item>NotePad</item>
+    </string-array>
+
+    <string name="btnPlayAgain">Play Again!</string>
+    <string name="txvScore">Your Score:</string>
+
+
+</resources>

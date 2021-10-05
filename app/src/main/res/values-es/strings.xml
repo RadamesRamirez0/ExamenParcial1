@@ -1,0 +1,31 @@
+<resources>
+    <string name="splashWelcome">Bienvenidos al programa de Examen de Programación.</string>
+    <string name="splashCreator">Creado por: Radames Ramirez Diaz</string>
+    <string name="txvLoginInstruction">Juguemos, introduce tu nombre: </string>
+    <string name="edtUserName">Por favor, introduce tu nombre aquí</string>
+    <string name="btnLoginStart">Comenzar</string>
+    <string name="txvError">Por favor, introduce un nombre válido</string>
+    <string-array name="Questions">
+        <item>¿Cómo se llama la tienda oficial del S.O. Android?</item>
+        <item>Son aplicaciones que están diseñadas para correr directamente sobre un sistema operativo</item>
+        <item>¿Cómo se llama el IDE para desarrollar aplicaciones nativas de Android? </item>
+    </string-array>
+    <string-array name="Ans1">
+        <item>Play Store</item>
+        <item>App Store</item>
+        <item>Aptoide</item>
+    </string-array>
+    <string-array name="Ans2">
+        <item>Aplicaciones web</item>
+        <item>Aplicaciones híbridas</item>
+        <item>Aplicaciones nativas</item>
+    </string-array>
+    <string-array name="Ans3">
+    <item>Visual Studio</item>
+    <item>Android Studio</item>
+    <item>NotePad</item>
+    </string-array>
+
+    <string name="btnPlayAgain">¡Jugar de nuevo!</string>
+    <string name="txvScore">"Tu puntuación: "</string>
+</resources>
